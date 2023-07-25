@@ -1,6 +1,6 @@
 # JAVASCRIPT : PARALLAX EFFECT
 
-![parallaxMain](https://github.com/YeoDaSeul4355/ParallaxEffect/assets/125419623/55ec17ce-4ab1-4882-8780-fc47c580e335)
+![parallaxMain](https://raw.githubusercontent.com/kebab000/ParallaxEffect2023/main/img/parallaxEffect.png)
 <br><br>
 
 > View Site : https://kebab000.github.io/web2023/javascript/parallax/parallaxEffect01.html
